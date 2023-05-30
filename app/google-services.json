@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "875633374451",
+    "firebase_url": "https://cardgame-90a4d-default-rtdb.firebaseio.com",
+    "project_id": "cardgame-90a4d",
+    "storage_bucket": "cardgame-90a4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875633374451:android:2366c334553eca174bb386",
+        "android_client_info": {
+          "package_name": "com.oykumotor.cardgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875633374451-18kbijou8v4k820ht8dqjvjcggkd7m6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGXOLFz2WvoIhI2r4cdIolHJzN2epMSBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875633374451-18kbijou8v4k820ht8dqjvjcggkd7m6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875633374451:android:5ecbdcaf6438dd454bb386",
+        "android_client_info": {
+          "package_name": "com.oykumotor.hafizagame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875633374451-18kbijou8v4k820ht8dqjvjcggkd7m6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGXOLFz2WvoIhI2r4cdIolHJzN2epMSBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875633374451-18kbijou8v4k820ht8dqjvjcggkd7m6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
